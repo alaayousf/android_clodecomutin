@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659859648221",
+    "project_id": "cloudecomuting",
+    "storage_bucket": "cloudecomuting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659859648221:android:da027b32b33f3aa8077534",
+        "android_client_info": {
+          "package_name": "com.alaaclips.cloudcomputing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659859648221-vvubqtv32g3k9cgg1e78o1nhuilnuf1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiN_OJd7PBuAA1yJiwrFhzCqcqiX_QPus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659859648221-vvubqtv32g3k9cgg1e78o1nhuilnuf1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
